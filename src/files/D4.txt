@@ -1,0 +1,173 @@
+Để tạo rên (Background) riêng cho một Side ta chọn?
+Chọn tab Insert/ cick mouse trái vào mẫu rền cần chọn
+-Chọn tab Desigr/ click mouse phải vào mẫu riền cần chọn/ apply to selected sides
+Chọn tab Home/ cick mouse trái vào mẫu rền cần chọn
+Chọn tab Desn/ cỉck mouse trả vào mẫu riền cần chọn.
+
+Trong bảng tính Excal, tổ hợp phím nào thực hiện việc tạo mới một bảng tíh?
+-Ctrl+O
+Ctrl+A
+Ctrl+N
+Shift+CDÌ+N
+
+Trong soạn thảo Word, hộp thoại Page Setup thẻ Margins, mục Mirror Margrs dùng để...?
+-Đặt lề cho các trang chẵn và lẻ đổi xứng
+Đặt È cho văn bản cân xứng
+Đắt cho tiêu đề cân xứng với văn bản
+Đặt ề cho các section đổi xứng nhau
+
+Để xóa lịch sử truy cập website trong trình duyệt Google chrome như thể nào?
+-Lịch sử -> xoá dữ liệu duyệt web
+Ctrl-A -> Delete
+Ctrl-A -> Backapace
+Chọn địa chỉ website và Delete.
+
+Để xóa một side trong powerpoint, thực hiện ra sao?
+Chọn tất cả các đối tượng trên Side nhấn Delete
+Chọn trang cần xóa rhấn phím Backspace
+-Nhấn mouse phả vào Side muốn xóa chơn Delete side
+Chọn Side cần xóa nhấn phim backspace.
+
+Để xem nội dung thư mục với các thông tin mặc định: Name, Type, Size, Date modified..... Bạn chọn hiễn thị nào?
+Show all
+-Detils
+List
+Tiles
+
+Để mở cửa số như hình chụp, thao tác thể nào?
+-Run —> Task Manager
+Ctrl - alt - delete
+Click chuột phải lên Task bar -> Staft Task Managar
+Programs-> Task Manager
+
+Cách tạo lên kết trong Powerport ta làm như thế nào?
+Transtons — Links — Hyperirk
+Home —Links — Hyperirk
+Insert —Links — Hyperirk
+-Design — Lirks — Hyperirk
+
+Hệ thống các chương tình đảm nhận chức năng làm mãi tường trung gian giữa người sử dụng và máy tính được gọi lì...”
+Các loại tình biên dịch trung gian
+TẤt cả đều đúng
+-Phẩn mềm
+Hệ Điều Hành
+
+Trong bảng tính Excel, để đổi tên một bảng tính ta thực hiện?
+-Gõ tên mới vào.
+NhấnF2
+Click chuột phải vào sheet cần đổi tên/Chọn Rename/Gố tên mới vào
+View — Rename
+
+Loại WebSite nào có địa chỉ như sau: vwa:hodgkin edu <http-/waas.hodgkin.ødu>?
+-TỔ chức giáo dục
+Tổ chức thương mại
+Tổ chức philợi nhuận
+Tổ chức chính phủ
+
+Có thể mở và đọc nội dung các tập tin có kiểu .hưml bằng cách nào?
+Notepad
+Search Engine
+-Intemet Explorer
+Microsoft Excel
+
+Trong bảng tính Excel, cho các gá trị rhư sau: ô A4 = 4, ô A2 = 5, ô A3 = 6, ô A7 = 7 tại vị trí ô B2 lập công thức B2cho biết kết quả ô B2 2
+-Lỗi
+11
+10
+9
+
+Trong bảng tính Excel, để gộp 2 ô thành 1 ô, ta thực hiện?
+-Thẻ Home/Merqe & center
+Thẻ Home/Condtional formatting.
+Thẻ Home/Format as teble
+Thẻ Home/AWap text
+
+Để tạo hiệu ứng chuyển trang Side, bạn sử dựng la chọn nào?
+Animations —» Ânimatlon
+Transilons —¬ Effect Options
+Animatons — Add Animation
+-Transtons —¬ Transiion to te Side
+
+Một trong những lí do có thể mắt tài khoăn email là gì”
+Chưa thanh toán tiền dịch vụ
+Nhập sai Account Name và passowrd
+-Nhập tổn tải khoăn và mật khẩu rên máy bị nhiễm keylogger
+Quên mật khẩu
+
+Trong soạn thảo Word, để thực hiện định dạng đổi tượng hình theo như mẫu. Thực hiện rhư thế nào?
+-Chọn hinh —Format — Pichre Styles
+Chon hinh —Picbre Layout — Picbze Styles
+Chọn hình —Desgn — Picbre Styles
+ChọnHình —Format — Pibre Border — Pictrre Styles
+
+Trong soạn thảo Word, muốn tách một ô trong Table thành nhiều ô, ta thực hiện?
+Tab — Cells
+Tolls — Split Cels
+-Table —split Cels
+Table — Merge Cels
+
+User Nams trong Hộ Điễu Hành là g?
+Tên máy tính có cải hệ điều hành
+Tên của địa chỉ email
+Tên đăng nhập vào Hệ Điểu Hành
+-Tên cũa người sử dụng Hệ Điều Hành
+
+Để truy cập vào một trang Web chúng ta cẩn phải biết gì?
+Trang web đó thuộc quốc gia nào
+Hệ điểu hành đang sử dụng
+Cần có tình duyệt
+-Tên trang web cẩn truy cập và trình duyệt sử dụng
+
+Trong soạn thảo Word, để sử dụng táb trong Table ta sử dụng?
+Alt+Tab
+Shift + Tab
+-Ctrl+Tab
+Tab
+
+Người và máy tính giao tiếp với nhau thông qua
+Bàn phim
+-Hệ Điều Hành
+Bữa cứng
+Chuột
+
+Trong soạn thảo Word, các hình thức thể hiện văn bản là...
+-Page Layout, Ful Sereen Readng, Web Layout, Qutine,Draft
+Print Layout, Ful Sereen Readng, Web Layout, Outlne,Draft
+Page Layout, Ful Sereen Readng, Web Layout, Quine
+Print Layout, Ful Screen Readng, Web Layout, Outline
+
+Trong bảng tíh Excel, gá trị trả về của công thức =LEN("TRUNG TAM TIN HỌC") là..?
+16
+15
+18
+-17
+
+Để xem tên của máy tính (Computer Name), chương trình nảo được dùng?
+Dxdiag.txt
+-Dxdiag.exe
+Dxdiag.docx
+Dxdiag.xlsx
+
+Trong Powerportt cho biết phím tắt để trnh chiếu bắt đầu từ Side hiện hành?
+Shift-F3
+Shift-F9
+-Shift-F5
+Shift-F7
+
+Cáp quang được làm bằng từ chất liệu gì?
+Sắt
+Đồng
+Nhôm
+-Thuy tinh
+
+Cấu trúc cơ bản của máy vì tính gắm những thành phẫn nào?
+-CDROM, keyboard, CPU
+Các thiết bị đĩa cứng, USB, CDRom, Mouss...và phần kết nổi hệ thống
+Khối xử, khối nhập, khối xuất
+Màn Hình, máy n,... và phần kết nối hệ thống
+
+Phần mềm nào dưới đây được cài sẵn khi cải đặt Hệ Điều Hành Windows?
+Photoshop
+Excel
+Word
+-Paint

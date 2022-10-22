@@ -1,0 +1,165 @@
+Trong soạn thảo Word, tổ hợp phím nào cho phép đưa con trỏ về cuối văn bản?
+-Ctr + End
+Alt + End
+Ctrl + Alt + End
+Shift + End
+
+Trong Powerpoint, có thể ẩn đi 1 slide trong khi tỉnh chiếu không?
+-Được, bằng cách chọn lệnh Hide Side trong thẻ Design
+Được, bằng cách delete slide đó đi
+Không thể ẩn đi slide đã tạo ra
+Được, bằng cách chọn lệnh Hide Side trong thẻ Side show
+
+Trong Windows Explorer thành phần "Status bar" có ý nghĩa?
+Hiển thị các lệnh làm việc
+Không có thành phần "Status bar” trên Windows Explorer
+-Hiển thị thông tin về thư mục hiện hành
+Hiển thị số trang từ
+
+Thiết bị thường dùng để kết nối mạng internet
+USB
+-Router
+CPU
+CDRom
+
+WWW là viết tất như thế não?
+World Width Web
+Word Wi Web
+World Wild Web,
+-World Wide Web
+
+Trong soạn thảo Word, tổ hợp phím não sau đây để tăng kích cỡ của font chữ?
+CTRL+[
+HOME+L
+-CTRL+]
+CTRL+S
+
+Trong soạn thảo Word , muốn đánh số trang cho văn bản, thực hiện?
+Page Layoutt —› Page Nurmbers
+-Insert --> Page Nurrbers
+View — Page Nuinbers
+Home —› Page Nuimbers
+
+Trong Windows, muốn tạo một thư mục mới, thực hiện?
+Edlit - New, sau đó chọn Folder
+-File - New, sau đó chọn Folder
+Tools - New, sau đó chọn Folder
+Windows - New, sau đó chọn Folder
+
+Để khởi động Powerpoint, ta thực hiện lệnh nào sau đây?
+-Start — Run —› gố Powerpoint,exe
+Start —Run —» gỗ Powerpnt.exe — nhấn Enter
+Start —Run —› gố Powerpont.ppx —x nhấn Enter
+Start — All programms — Photoshop —» Microsoft Powerpoint
+
+Hệ thống các chương trình đăm nhận chức năng làm môi trường trung gian giữa người sử dụng và máy tính được gọi là gì...?
+Tất cả đều đúng,
+Phần mềm
+-Hệ Điều Hành
+Các loại trình biên dịch trung gian
+
+khả năng xử lý cũa máy tính phụ thuộc chính vào...?
+Sofware (Phần mềm)
+VGA (Card đồ họa)
+-CPU, RAM, HDD(hard disk)
+ROM, Cache
+
+Trong bảng tính Excel, chọn lựa nào để ẩn hiện đường lưới trong bảng tính?
+Home, Paragraph group, No Border
+Không cỏ chức năng này
+Review , Show group, Grdies
+-View, Show group, Grdines
+
+Tên việt tắt của chữ www trong một trang website là gì?
+Wide web world
+-World wide web
+Web wide world
+World web wide
+
+Trong các dạng đa chỉ sau đây, đa chỉ nào là địa chỉ tuyệt đổi cột, tương đổi dòng?
+-$B1:$D10
+$B$1:$D$10
+B$1$$10$D
+B$1
+
+Chương trình nào dưới đây dùng để soạn thảo vẫn bản?
+Microsoft Publisher
+Microsoft Powerpoint
+-Microsoft Word
+Microsoft Excel
+
+Trong mạng máy tính, thuật ngữ Share có ý nghĩa gì?
+Nhấn hiệu của một thiết bị kết nổi mạng.
+Thực hiện lệnh in trong mạng cục bộ
+Một phần mềm hỗ trợ sử dụng mạng cục bộ.
+-Chia sẻ tài nguyên
+
+Trong soạn thảo Word, để bật tắt chế độ nhập ký tự Subscript khi tạo kỷ tự hóa học như hình chụp E:©., bạn sử dụng Í
+Click chọn biểu tượng "X2" trên nhóm Font.
+Nhấn tổ hợp phim Ctrl + Shift + F3
+-Nhấn tổ hợp phim Chỉ - Shift - +
+Click chọn biểu tượng "X2" trên nhóm Font.
+
+Bảng mã dùng để gố dấu tiếng Việt, bạn sử dụng lựa chọn nào?
+-Unicode, TCVN, VNI-Windows
+Tahoma, Arial, VNI-Maria
+Unicode, Vni-times, Arial
+Unicode, TCVN, Tahoma
+
+Trong Powerpoint muốn chèn 1 Shape ta chọn lệnh nào?
+-Insert —Shapes
+File —Print
+File — PrintPreview
+Design — Shapes
+
+
+
+
+
+
+Để tô màu nền cho side ta chọn những lệnh nào?
+-Layout — Background — Background Style
+Design — Background — Backgrourd Ste
+Insert ¬ Background —› Background Style
+Home — Background —› Background Stye
+
+Khi đăng ký tài khoăn mạng xã hội, diễn đàn, tài khoăn để chơi game online... chọn lựa nào là sai?
+Bắt buộc có địa chỉ Email trên Gmail
+-Không có địa chỉ Email cũng đăng ký được
+Bắt buộc có địa chỉ Email trên yahoo và Gmail
+Bắt buộc có địa chỉ Email trên yahoo.
+
+Font chữ nào sau đây thuộc băng mã Unicode?
+VnTime
+Vnitimes
+-Tahoma
+VniBrush
+
+Sử dụng chương trình nào của Windows để quản lí các tập tin và thư mục?
+Microsoft Office
+Control Panel
+Accessories
+-Windows Explorer
+
+Trong bảng tính Excel, hàm nào sau đây cho phép tính tổng các giá tr kiểu số thoả một điều kiện cho trước?
+COUNT
+COUNTIF
+-SUMIF
+SUM
+
+Thao tác chọn Fie — Close dùng để làm ở?
+-Đóng tập tín hiện tại
+Mở một tập tin nào đó
+Thoát khỏi Powerpoint
+Lưu tập tin hiện tại
+
+Trong Gmail cho phép đính kèm tập tin có dung lượng tối là bao nhiêu?
+Tối đa 100 MB
+-Tối đa 25 MB
+Tối đa 25 Mb
+Không giới hạn
+Vùng nhớ để lưu tạm thời dữ liệu và dữ liệu sế mất đi khi tắt máy tính, nó được gọi là... ?
+-RAM
+USB
+HDD
+ROM

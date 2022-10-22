@@ -1,0 +1,167 @@
+Để tạo nền cho side trong Powerpont, ta thực hiện thế nào?
+Insert — Format Background
+-Design ¬ Themes
+Home — Fill Color
+Insert — Fill Color
+
+Trong bảng tính Excel, cho các giá trị như sau: ô A4 = 4, ô A2 = cho biết kết quả ô B2 ?
+-11
+lỗi
+10
+9
+
+Tai một Slde ta dùng tổ hợp phím nào sau đây sẽ xoá slide đó?
+-ALT+E+D
+ALT+E+F
+ALT+W+P
+ALT+I+D
+
+Trong bảng tính Excel, các dạng đa chỉ sau đây, đa chỉ nào là địa chỉ tuyệt đổi?
+$B1:$D10
+B$1$$10$D
+B$1
+-$B$1:$D$10
+
+Trong Powerpoint có thể tạo một tập tin mới như thế nào.
+CTRL - P
+CTROL - O
+CTROL - M
+-CTRL - N
+
+Trong ứng dụng Windows Explorer, để chọn nhiễu tập tin hay thư mục liên tục ta thực hiện thao tác kết hợp phím ... với Click Mouse?'
+Tab
+Ctrl
+Alt
+-Shift
+
+Khi thết kế Side với PowerPoint, muốn thay đổi mẫu riền Side rhanh, thực hiện?
+Insert — Side Design
+-Desgn —Backgound
+Desgn —Themes
+Side Show — Themes
+
+Trong bảng tính Excel, khi cần so sánh khác nhau thì sử dụng kí hiệu dị?
+#
+-< >
+&
+><
+
+Trong soạn thảo Word, muốn bỏ đánh dấu khối văn bản (tô đen) ta thực hiện?
+Bấm phím Space
+-Click mouse ra khỏi vùng đã chọn khối
+Bấm phím Enter
+Bấm phim Esc
+
+Theo bạn 1GB bằng bao nhiêu MB?
+1240MB
+1000MB
+2^20 MB
+-1024MB
+
+Các thiết bị nào thông dụng nhất hiện nay dùng để cung cấp dữ liệu cho máy xử lý?
+Bàn phím (Keyboard), Chuột (Mouse), Máy in (Printer)
+Máy quết ãnh (Scanne!), Chuột (Mouse)
+-Bàn phím (Keyboard), Chuột (Mouss) và Máy quét (Scanne!)
+Máy quét ảnh (Scanne).
+
+Hãy cho biết đâu là phần mềm hệ thống (Hệ Điều Hành)?
+-Windows 7
+Windows Media Player
+Microsoft Office 2013
+UniKey
+
+Công cụ tìm kiếm phố biến trên Internet hiện này ở Việt Nam là gì?
+Ansver
+Yahoo
+Cốc Cốc
+-Google
+
+Một địa chĩ Email (Gmai) hợp lệ, bạn sử dụng lựa chọn nào?
+tmdal@com.vn.gmail
+tmdaLgmail@comvn
+-tmdal@gmaiLcom.vn
+tmdatl23@gmail
+
+Thiết bị nào sau đây dùng để kết nổi mạng?
+-Router
+Rom
+Ram
+CPU
+
+Để hiển thị hoặc ấn Menu bar như hình chụp trong Windows Explorer, thực hiện thế nào?
+-Organize -> Layout ~>Menu Bar
+Include in Library ¬> layout -> menu bar
+Organize -> Menu Bar
+Include in Library ¬> menu bar
+
+Chọn lựa nào đễ ấn hoặc hiện phần mỡ rộng tập tin?
+Menu Tools/Optionlthẻ View, đánh dấu chọn hoặc hủy chọn mục Hide empty driwes in the cormputer folder
+Menu Tools/Option/thẻ View, đánh dấu chọn hoặc hủy chọn mục Hide proteerded operating system fles.
+Menu Tools/Option/thẻ View, đánh dấu chọn hoặc hủy chọn mục Show hidden filss, folders, and drives.
+-Menu Tools/Option/thẻ View, đánh dấu chọn hoặc hủy chọn mục Hide extensions for the known file type.
+
+Trong Powerpoint 2010, chức năng Home —› New side có nghĩa ở?
+Thiết kế bố cục side.
+Tạo mới tập tửn powerpoint mới
+-Tạo ra 1 side mới
+Thiết kế Template cho side
+
+Email là viết tắt của cụm từ
+Electron mail
+-Electric mail
+Electronic mail
+Eleclion mail
+
+Có thể đóng cửa số soạn thảo văn trong Word bằng cách nào?
+-Ctrl + F4
+Alt + F4
+Ctrl + W
+Ctrl + X
+
+Trong bảng tính Excel, tổ hợp phím nào thực hiện việc tạo mới một bảng tính?
+Ctrl + O
+-Shift + Ctrl + N
+Crl + N
+Ctrl + A
+
+Trong soạn thảo Word, để vẽ các khối hình học, chọn chức năng nào?
+Insert ¬ symbol
+-Insert — Shapes
+Font — Change case
+Desgn ¬ Wordart
+
+Trong soạn thảo Wơrd, khi di chuyển con trỏ trong bảng Table, người sử dụng nhấn tổ hợp phim Shít + Tab dùng để?
+Di chuyển con trỏ đến hàng trên
+Di chuyển con tỏ đến ô lên trước
+Không có phím nóng như vậy
+-Thêm một tab vào ô
+
+Dịch vụ lưu trữ đám mây của Google là gì?
+-Google Die
+Ubuntu
+Mediafile
+Fpt
+
+Trong Windows 7 để khởi động lại máy tính, phát biểu nào sau đây là sai?
+Bắm nút Reset
+Nhắn tỗ hợp phím Ctr-Alt-Del, chọn mục Restart
+-Bấm nút Power.
+Từ cửa số màn hình nên nhần nút Start - Shutdown, sau đó chọn mục Restarl
+
+Để đảm bảo an toàn dữ liệu ta chọn cách nào?
+-Đặt thuộc tính hidden
+Sao lưu dự phòng,
+Đặt thuộc tính Read ønly
+Cøpy nhiều nơi trên ổ dĩa máy tính
+
+Để lưu dữ liệu lên Googe Drie bạn thực hiện như thế nào?
+-Click nút Upload đễ tãi tập tin lên Google Drive
+Click vào nút down load từ cửa số Google Drive
+Click vào nút send để gửi email cho nhà cung cấp dịch vụ để xin phép.
+Tải dữ liệu về từ Google Drve
+
+Trong bảng tính Excel, để mở một tập tin Excel đã có, sử dụng tổ hợp phím nào?
+Ctrl + F
+Alt + O
+-Ctrl + O
+Alt + F

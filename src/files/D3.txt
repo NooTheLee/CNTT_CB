@@ -1,0 +1,179 @@
+Cho biết cánh sử dụng bàn phím ảo trong hệ điều hành Windows?
+Vào Computer ¬> Ổ đĩa C ¬> Program Files -> Unikey > Unikey.exe 
+Vào Start ->Run -> gõ lệnh OKN.
+-Vào Start-> Run > gõ lệnh OSK.
+Vào Computer -> Ổ điã C -> Program Files -> Micosoft Ofice\Ofice14 -> Winword.exe
+
+Tăng loại bộ nhớ nào sẽ có ảnh hưởng lớn đến hiệu suất máy tính?
+-ROM
+Cache
+RAM
+HDD (hard disk)
+
+Chọn phát biểu đúng.
+Dữ liệu kiểu số sẽ mặc định canh lề trái.
+-Dữ liệu kiểu chuỗi sẽ mặc định canh lề trái.
+Dữ liệu kiểu ngày tháng dẽ mặc định canh lề trái.
+Dữ liệu kiểu công thức sẽ mặc định canh giữa.
+
+Để định vị trí Taskbar bên phải màn hình trong Windows?
+Nhấn phải chuột vào Taskbar chọn Show Desktop.
+Nhấn phải chuột vào Taskbar chọn Properties ->tại dòng Taskbar Buttons ->chọn Right.
+-Nhấn phải chuột vào Taskbar chọn Properties ->tại dòng Taskbar location on Screen -›chọn Right.
+Dùng Chuột kéo thả Taskbar tùy ý trên 4 cạnh màn hình.
+
+Phát biểu nào sau đây là sai?
+Vừa mở cửa sổ duyệt web, vừa chơi game trong lúc chờ trang web xuất hiện đầy đủ nội dụng.
+Mở nhiều cửa sổ duyệt web cho nhiều địa chỉ web khác nhau.
+Nút F5 là để bắt đầu lại quá tình tải trang web từ máy phục vụ về máy cá nhân.
+-Nút Back để đóng cửa sổ trình duyệt.
+
+Thiết bị nhập (Input) bao gồm những thiết bị nào sau đây?
+-Mouse, Keyboard
+Printer, Mouse
+Keyboard, Speaker
+Monitor, Printer
+
+Trong Powerpoint có thể tạo được nhiều hiệu ứng cho 1 đổi tượng?
+Không tạo được.
+-Tạo được nhiều hiệu ứng.
+Chỉ tạo được 3 hiệu ứng.
+Chỉ tạo được 2 hiệu ứng.
+
+Trong bảng tính Excel,ô A1 chứa giá trị 15, B1 chứa giá trị 0. Tại D1 ta lập công thức = A1/B1 thì nhận được kết quả?
+-#DIV/O!
+#VALUE
+0
+15
+
+Các chức năng cơ bản của máy tính?
+Trao đổi dữ liệu. Điều khiển các thiết bị, Xem phim, Chạy chương trình.
+Chạy chương trình, Kết nối internet, nghe nhạc.
+-Lưu dữ liệu, xử lý dữ liệu, trao đổi dữ liệu, điều khiển thiết bị phần cứng và phần mềm.
+Xử lý dữ liệu, Kết nối internet, ln văn bản.
+
+Trong bảng tính Excel, để gộp 2 ô thành 1 ô, ta thực hiện?
+Thẻ Home/Wrap text.
+-Thẻ Home/Merge & center.
+Thẻ Home/Conditional formating.
+Thẻ Home/Format as table.
+
+Trong soạn thảo Word, để soạn thảo và định dạng văn bản như mẫn bạn sử dụng?
+Table, Pictures.
+Định dạng Tab và Dropcap.
+Chèn hình và chia cột.
+-Định dạng Font và Wordart.
+
+Để xóa lịch sử truy cập website trong trình duyệt Google chrome như thế nào?
+Chọn địa chỉ website và Delete.
+Ctrl-A -> Delete.
+Ctrl-A -> Backspace.
+-Lịch sử -> xóa dữ liệu duyệt web.
+
+Trong soạn thảo Word, để đóng ứng dụng ta dùng tổ hợp phím?
+Ctrl + F4.
+Ctrl + A.
+-Alt + F4.
+Alt + B.
+
+Để tô màu nền cho slide ta chọn những lệnh nào?
+-Desgin —> Background —> Background Style
+Home —> Background —> Background Style
+Layout —> Background —> Background Style
+Insert —> Background —> Background Style
+
+Trong soạn thảo Word, cách chuyển đổi dhữ hoa sang chữ thường và ngược lại, bạn sử dụng?
+-Home —> Font —> Change Case
+Shift + F4
+F4
+Home -> Font —> TextEffect —> Change Case
+
+Phần mềm nào dưới đây sẵn có khi cài đặt Hệ Điều Hành Windows?
+-Notepad
+Excel
+Power Point
+Word
+
+Trong bảng tính Excel, tại ô A2 có sẵn gái trị chuỗi "Tin học"; Ô B2 có giá trị số 2008, Tại ô C2 gõ vào công thức =A2+E
+-#VALUE!
+Tin hoc2008
+Tin học
+2008
+
+Bạn sẽ làm gì để di chuyển cửa số?
+-Click và kéo thanh tiêu đề để di chuyển tới vị trí mới.
+Click vào nút Restore Down.
+Click và kéo biểu tượng Control để di chuyển tới vị trí mới.
+Click vào bất kì chỗ nào trong cửa sổ để di chuyển tới vị trí mới.
+
+Chọn lựa nào có thể sắp xếp lại các slide trong tập tin kiểu .pptx?
+-Slide Sorter
+Normal
+Reading View
+Notes page
+
+Tại một Slide ta dùng tổ hợp phím nào sau đây sẽ xoá slide đó?
+ALT+W+P
+ALT+E+F
+ALT+I+D
+-ALT+E+D
+
+Để xem nội dung thư mục với các thông tin mặc định: Name, Type, Size, Date modified... Bạn chọn hiển thị nào?
+-Details
+Tiles
+List
+Show all
+
+Trong bảng tính Excel, nếu trong một ô tính có các kí hiệu #####, điều đó có nghĩa gì?
+Hàng chứa ô đó có độ cao quá thấp nên không hiển thị hết chữ số.
+Công thức nhập sai và Excel thông báo lỗi.
+Chương trình bảng tính bị nhiễm virus.
+-Chiều rộng ô quá hẹp nên không hiển thị hết chữ số.
+
+Trong soạn thảo Word, tổ hợp phím CTRL + J dùng để...?
+Mở một văn bản đã có trên máy tính.
+Canh trái khối nội dung văn bản đang chọn.
+-Canh đều 2 bên.
+Lưu văn bản đang làm việc.
+
+Trong Windows 7 để khởi động lại máy tính, phát biểu nào sau đây là sai?
+-Bấm nút Power.
+từ cửa sổ màn hình nền nhấn nút Start-Shutdown, sau đó chọn mục Restart.
+Bấm nút Reset.
+Nhấn tổ hợp phím Ctrl-Alt-Del, chọn mục Restart.
+
+Trong soạn thỏa Word, muốn bỏ đánh dấu khối văn bản (tô đen) ta thực hiện?
+Bấm phím Esc.
+-Click mouse ra khỏi vùng đã chọn khối.
+Bấm phím Space.
+Bấm phím Enter.
+
+Để tránh việc truy cập thông tin trái phép người ta thường làm gì?
+Không chia sẻ.
+Ngắt nguồn điện.
+-Giới hạn quyền truy cập với người dùng bằng tên và mật khẩu.
+Ngắt kết nối internet.
+
+Trong Windows làm thế nào giúp bạn truy cập nhanh vào menu Start?
+Không có cách nào khác, phải nhấn nút Power Off.
+Ctrl+Alt+Esc.
+Ctrl+F1.
+-Phím cửa sổ.
+
+Khi một dòng chủ đề trong thư ta nhận được bắt đầu bằng chữ RE(TL) có ý nghĩa gì?
+Thư mới
+Thư rác, thư quảng cáo.
+Thư của nhà cung cấp dịch vụ E-mail mà ta đang sử dụng.
+-Thư trả lời cho thư mà ta đã gửi trước đó.
+
+Khi đang thiết kế các Slide trên PowerPoint muốn trình chiếu trang đang thiết kế, thực hiện?
+Slide Show -> Start Slide Show -> From Beginning.
+Slide Show -> View Show.
+Slide Show -> Start Slide Show.
+-Slide Show -> Start Slide Show -> From curent Slide.
+
+Điều gì có thể bị giám sát khi một máy tính được kết nối mạng?
+Khả năng giao tiếp.
+-Quyền tự chủ và sự riêng tư.
+Sức mạnh xử lý máy tính.
+Dung lượng lưu trữ tập tin.
